@@ -141,4 +141,3 @@ int main() {
     menu();
     return 0;
 }
-taskExplorer.globPatternsBash: [ "**/bash_scripts/**", "**/sh/scripts/**", "/usr/local/bin/start_task" ]
